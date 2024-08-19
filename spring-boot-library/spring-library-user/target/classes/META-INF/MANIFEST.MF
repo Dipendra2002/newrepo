@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: hp
+Build-Jdk: 21.0.3
+Implementation-Title: spring-library-user
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: de.jonashackt.spring.user
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-library
+ -user/
+Created-By: Maven Integration for Eclipse
+
